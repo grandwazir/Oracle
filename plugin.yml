@@ -1,6 +1,12 @@
-name: jChat
-main: name.richardson.james.jchat.jChat
+name: Oracle
+main: name.richardson.james.oracle.Oracle
 author: James Richardson (grandwazir)
-description: Simple chat prefix/suffix plugin for use with BukkitPermissions.
-website: https://github.com/grandwazir/jChat 
-version: 1.1.3
+website: https://github.com/grandwazir/Oracle 
+description: Matches questions to regular expressions to provide in game help.
+version: 1.0.0
+
+commands:
+  help:
+    description: Ask a question to the oracle
+    usage: /help [question]
+    
