@@ -6,7 +6,7 @@ description: Matches questions to regular expressions to provide in game help.
 version: 1.0.0
 
 commands:
-  help:
+  oracle:
     description: Ask a question to the oracle
-    usage: /help [question]
+    usage: /oracle ask [question]
     
